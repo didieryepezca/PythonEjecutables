@@ -1,0 +1,5 @@
+
+
+
+comando para convertir scripts python en programas ejecutables
+D:\RUTA\Carpeta\pyinstaller --onefile programaEjecutable.py
